@@ -19,6 +19,19 @@ Be the first player to reach 100 points by rolling the dice and making smart dec
 - Rolling a 1 means you lose your current turn's points!
 - Strategic use of Hold can prevent you from losing your turn’s gains.
 - Think ahead: play risky or play safe?
+<br>
+[You can play this game here](https://duel-dice-game.netlify.app/)
+<br>
+## Mobile/Tablet Users – Heads Up!
+⚠️ This game is best experienced on a desktop or laptop for full functionality and proper layout. While you can try playing on mobile/tablet by enabling Desktop Mode in your browser, some features or visuals may not display correctly due to layout limitations.
+
+## ✅ How to Enable Desktop Mode
+On Chrome(Android):
+  - Tap the three dots menu (⋮) in the top right.
+  - Check ✅ Desktop site.
+On Safari(iOS):
+  -  Tap the aA icon in the address bar.
+  -  Select Request Desktop Website.
 
 
 
