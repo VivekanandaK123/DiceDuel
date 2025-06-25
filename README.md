@@ -15,7 +15,7 @@ Be the first player to reach 100 points by rolling the dice and making smart dec
 4. Players keep taking turns until one player's Total Score reaches 100 or more.
 5. Click 🔁 New Game at any time to reset scores and start over.
 <br>
-##⚠️ Key Rules
+## ⚠️ Key Rules
 - Rolling a 1 means you lose your current turn's points!
 - Strategic use of Hold can prevent you from losing your turn’s gains.
 - Think ahead: play risky or play safe?
